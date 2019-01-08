@@ -1,0 +1,5 @@
+Charles Babbage - Father of the computer
+Created the first computer named the Difference Engine
+Made plans to create successor, The Analytical Engine
+During 1842 - 1843, Ada Lovelace translated the memoir of Francis Maneclang about Charles Babbage's newly proposed engine, the Analytical Engine.
+She supplemented with it, a memoir with notes specifying in detail a method to calculate Bernoulli Numbers. This is recogonized by historians as the first computer program.
